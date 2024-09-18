@@ -13,8 +13,8 @@ This project implements a Bayesian Network classifier to diagnose thyroid condit
 ## Setup
 
 1. Clone the repository:
-    bash
-    git clone https://github.com/your-repo/thyroid-bayesian-network.git
+    ```bash
+    git clone https://github.com/nitinkoberoii/AI_Lab4_Nexus.git
     
 
 2. Navigate to the project directory:
@@ -23,7 +23,7 @@ This project implements a Bayesian Network classifier to diagnose thyroid condit
     
 
 3. Install dependencies:
-    bash
+    ```bash
     pip install -r requirements.txt
     
 
