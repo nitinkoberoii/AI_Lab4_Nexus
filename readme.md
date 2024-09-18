@@ -10,3 +10,4 @@ The dataset is obtained from the UCI Machine Learning Repository:
 ## Installation
 
 To run this project, install the required dependencies using:
+pip install -r requirements.txt
